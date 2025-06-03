@@ -105,6 +105,9 @@ After programming, you will only need to setup your Wifi and BTC address.
 
 Note: when BTC address of your selected wallet is not provided, mining will not be started.
 
+
+https://bitminer24.de/blogs/nerdminer-guide/anleitung-einrichtung-des-nerdminer-v2
+
 #### Wifi Accesspoint
 
 

@@ -1,5 +1,9 @@
 # NerdSoloMiner
 
+Bitcoin Miner nerdminer V2 2.8 inch 56KHz/s
+ESP32-2432S028R Smart LCD Display Crypto Solo
+Bitcoin Miner Bitcoin Miner
+
 **The NerdSoloMiner v2**
 
 This is a **free and open source project** that let you try to reach a bitcoin block with a small piece of hardware.

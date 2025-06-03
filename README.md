@@ -107,8 +107,8 @@ Note: when BTC address of your selected wallet is not provided, mining will not 
 
 
 https://bitminer24.de/blogs/nerdminer-guide/anleitung-einrichtung-des-nerdminer-v2
-
 https://satoshistore.io/de/blogs/artikel/nerdminer-v2-setup-and-usage-information
+https://cryptotant.de/nerdminer-bitcoin-mining/
 
 #### Wifi Accesspoint
 

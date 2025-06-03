@@ -4,6 +4,10 @@ Bitcoin Miner nerdminer V2 2.8 inch 56KHz/s
 ESP32-2432S028R Smart LCD Display Crypto Solo
 Bitcoin Miner Bitcoin Miner
 
+https://kafkar.com/projects/smart-home/mastering-the-cyd-your-ultimate-beginners-guide-to-the-cheap-yellow-display-esp32-2432s028r-using-platform-io/
+
+https://www.bing.com/search?q=esp32-2432s028r+projects&PC=U316&FORM=CHROMN
+
 **The NerdSoloMiner v2**
 
 This is a **free and open source project** that let you try to reach a bitcoin block with a small piece of hardware.
